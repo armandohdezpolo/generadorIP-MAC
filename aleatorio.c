@@ -18,11 +18,6 @@ struct MAC{
     int pareja6;
 };
 
-struct CORREO{
-    string nombre;
-
-
-}
 
 void aleatoriaIP(const int longi, IP ip){
     int min = 0, max = 255;
